@@ -1,6 +1,6 @@
 fileFormatVersion: 2
 guid: 20e63e60d3d506e4f9b9757425b7b7cf
-timeCreated: 1465288365
+timeCreated: 1467201283
 licenseType: Free
 TextureImporter:
   fileIDToRecycleName:
@@ -63,18 +63,19 @@ TextureImporter:
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
-      - - {x: 83, y: 75.5}
-        - {x: 81, y: 72.5}
-        - {x: -89, y: 72.5}
+      - - {x: 59, y: 75.5}
+        - {x: -88, y: 72.5}
+        - {x: -91, y: 71.5}
         - {x: -94, y: 67.5}
-        - {x: -98, y: 15.5}
-        - {x: -112, y: 5.5}
-        - {x: -112, y: -70.5}
-        - {x: -105, y: -75.5}
+        - {x: -108, y: 11.5}
+        - {x: -109, y: -21.5}
+        - {x: -112, y: -39.5}
+        - {x: -112, y: -63.5}
+        - {x: -104, y: -75.5}
         - {x: 110, y: -75.5}
         - {x: 112, y: -73.5}
-        - {x: 112, y: 70.5}
-        - {x: 110, y: 75.5}
+        - {x: 112, y: 69.5}
+        - {x: 109, y: 75.5}
     - name: PR2.png
       rect:
         serializedVersion: 2
@@ -86,10 +87,8 @@ TextureImporter:
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
-      - - {x: -60.5, y: 69}
-        - {x: -66.5, y: 63}
-        - {x: -66.5, y: -60}
-        - {x: -62.5, y: -69}
+      - - {x: -66.5, y: 69}
+        - {x: -66.5, y: -69}
         - {x: 66.5, y: -69}
         - {x: 66.5, y: 69}
     outline: []

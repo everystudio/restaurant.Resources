@@ -1,0 +1,233 @@
+fileFormatVersion: 2
+guid: 65a81ae10df075745ae65c5caaa18b65
+timeCreated: 1465288367
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: tutorial11.png
+    21300002: tutorial555.png
+    21300004: tutorial666.png
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -2
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: tutorial11.png
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 908
+        width: 640
+        height: 1136
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 234, y: 178}
+        - {x: 230, y: 186}
+        - {x: 216, y: 197}
+        - {x: 141, y: 197}
+        - {x: 141, y: 214}
+        - {x: 137, y: 221}
+        - {x: 132, y: 225}
+        - {x: -129, y: 225}
+        - {x: -132, y: 224}
+        - {x: -135, y: 220}
+        - {x: -135, y: 197}
+        - {x: -210, y: 198}
+        - {x: -222, y: 192}
+        - {x: -226, y: 187}
+        - {x: -232, y: 174}
+        - {x: -232, y: -203}
+        - {x: -223, y: -218}
+        - {x: -206, y: -227}
+        - {x: 217, y: -227}
+        - {x: 233, y: -216}
+        - {x: 236, y: -208}
+        - {x: 236, y: 168}
+      - - {x: 316, y: 247}
+        - {x: 199, y: 247}
+        - {x: 198, y: 248}
+        - {x: 192, y: 250}
+        - {x: 185, y: 259}
+        - {x: 187, y: 265}
+        - {x: 193, y: 265}
+        - {x: 198, y: 270}
+        - {x: 199, y: 278}
+        - {x: 189, y: 297}
+        - {x: 187, y: 305}
+        - {x: 192, y: 310}
+        - {x: 201, y: 313}
+        - {x: 201, y: 314}
+        - {x: 314, y: 314}
+        - {x: 315, y: 313}
+        - {x: 320, y: 313}
+        - {x: 320, y: 334}
+        - {x: 207, y: 335}
+        - {x: 218, y: 337}
+        - {x: 227, y: 339}
+        - {x: 237, y: 341}
+        - {x: 242, y: 346}
+        - {x: 242, y: 369}
+        - {x: 236, y: 377}
+        - {x: 231, y: 379}
+        - {x: 218, y: 379}
+        - {x: 204, y: 375}
+        - {x: 201, y: 374}
+        - {x: 188, y: 373}
+        - {x: 180, y: 369}
+        - {x: 170, y: 367}
+        - {x: 162, y: 364}
+        - {x: 155, y: 361}
+        - {x: 147, y: 358}
+        - {x: 139, y: 356}
+        - {x: 129, y: 351}
+        - {x: 120, y: 345}
+        - {x: 115, y: 340}
+        - {x: 110, y: 340}
+        - {x: 101, y: 333}
+        - {x: 96, y: 325}
+        - {x: 94, y: 321}
+        - {x: 93, y: 317}
+        - {x: 93, y: 312}
+        - {x: 98, y: 305}
+        - {x: 108, y: 294}
+        - {x: 111, y: 292}
+        - {x: 123, y: 293}
+        - {x: 140, y: 307}
+        - {x: 131, y: 291}
+        - {x: 131, y: 284}
+        - {x: 137, y: 278}
+        - {x: 146, y: 266}
+        - {x: 154, y: 262}
+        - {x: 161, y: 261}
+        - {x: 164, y: 261}
+        - {x: 164, y: 251}
+        - {x: 170, y: 241}
+        - {x: 179, y: 233}
+        - {x: 188, y: 228}
+        - {x: 192, y: 227}
+        - {x: 320, y: 227}
+        - {x: 320, y: 248}
+        - {x: 317, y: 248}
+    - name: tutorial555.png
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 908
+        width: 640
+        height: 1136
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -289, y: 92}
+        - {x: -287, y: 94}
+        - {x: -272, y: 153}
+        - {x: -97, y: 153}
+        - {x: -88, y: 154}
+        - {x: -80, y: 160}
+        - {x: -78, y: 202}
+        - {x: -88, y: 211}
+        - {x: -315, y: 211}
+        - {x: -320, y: 203}
+        - {x: -320, y: 157}
+        - {x: -305, y: 151}
+        - {x: -297, y: 99}
+        - {x: -312, y: 92}
+        - {x: -316, y: 87}
+        - {x: -315, y: -4}
+        - {x: -311, y: -8}
+        - {x: 105, y: -8}
+        - {x: 108, y: -5}
+        - {x: 108, y: 89}
+        - {x: 105, y: 92}
+    - name: tutorial666.png
+      rect:
+        serializedVersion: 2
+        x: 1292
+        y: 908
+        width: 640
+        height: 1136
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 298, y: 91}
+        - {x: 269, y: 100}
+        - {x: 303, y: 101}
+        - {x: 311, y: 103}
+        - {x: 316, y: 105}
+        - {x: 320, y: 110}
+        - {x: 320, y: 203}
+        - {x: 318, y: 207}
+        - {x: 308, y: 211}
+        - {x: 95, y: 211}
+        - {x: 90, y: 210}
+        - {x: 82, y: 208}
+        - {x: 74, y: 196}
+        - {x: 75, y: 189}
+        - {x: 75, y: 122}
+        - {x: 77, y: 114}
+        - {x: 80, y: 108}
+        - {x: 87, y: 102}
+        - {x: 97, y: 101}
+        - {x: 235, y: 101}
+        - {x: 235, y: 100}
+        - {x: 264, y: 90}
+        - {x: 270, y: 90}
+        - {x: -111, y: 90}
+        - {x: -114, y: 88}
+        - {x: -115, y: 85}
+        - {x: -115, y: -36}
+        - {x: -111, y: -40}
+        - {x: 307, y: -40}
+        - {x: 310, y: -37}
+        - {x: 310, y: 87}
+        - {x: 307, y: 90}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

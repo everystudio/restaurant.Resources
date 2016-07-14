@@ -168,6 +168,7 @@ MonoBehaviour:
     m_open_item_id: 0
     m_revenue_up2: 0
     m_add_coin: 0
+    m_anim: 0
   m_sprItem: {fileID: 11465124}
 --- !u!1001 &100100000
 Prefab:

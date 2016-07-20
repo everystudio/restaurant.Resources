@@ -243,9 +243,8 @@ GameObject:
   - 224: {fileID: 22468432}
   - 222: {fileID: 22272894}
   - 114: {fileID: 11461086}
-  - 114: {fileID: 11434048}
-  - 114: {fileID: 11466320}
   - 114: {fileID: 11465526}
+  - 114: {fileID: 11448724}
   m_Layer: 5
   m_Name: ShopIconTall
   m_TagString: Untagged
@@ -426,7 +425,7 @@ MonoBehaviour:
       m_Calls: []
     m_TypeName: UnityEngine.UI.Slider+SliderEvent, UnityEngine.UI, Version=1.0.0.0,
       Culture=neutral, PublicKeyToken=null
---- !u!114 &11434048
+--- !u!114 &11448724
 MonoBehaviour:
   m_ObjectHideFlags: 1
   m_PrefabParentObject: {fileID: 0}
@@ -434,39 +433,18 @@ MonoBehaviour:
   m_GameObject: {fileID: 176414}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 1392445389, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+  m_Script: {fileID: 11500000, guid: fb8c4612ba2e8ee4399e773e6fb0b750, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  m_Navigation:
-    m_Mode: 3
-    m_SelectOnUp: {fileID: 0}
-    m_SelectOnDown: {fileID: 0}
-    m_SelectOnLeft: {fileID: 0}
-    m_SelectOnRight: {fileID: 0}
-  m_Transition: 1
-  m_Colors:
-    m_NormalColor: {r: 1, g: 1, b: 1, a: 1}
-    m_HighlightedColor: {r: 0.9607843, g: 0.9607843, b: 0.9607843, a: 1}
-    m_PressedColor: {r: 0.78431374, g: 0.78431374, b: 0.78431374, a: 1}
-    m_DisabledColor: {r: 0.78431374, g: 0.78431374, b: 0.78431374, a: 0.5019608}
-    m_ColorMultiplier: 1
-    m_FadeDuration: 0.1
-  m_SpriteState:
-    m_HighlightedSprite: {fileID: 0}
-    m_PressedSprite: {fileID: 0}
-    m_DisabledSprite: {fileID: 0}
-  m_AnimationTriggers:
-    m_NormalTrigger: Normal
-    m_HighlightedTrigger: Highlighted
-    m_PressedTrigger: Pressed
-    m_DisabledTrigger: Disabled
-  m_Interactable: 1
-  m_TargetGraphic: {fileID: 11461086}
-  m_OnClick:
-    m_PersistentCalls:
-      m_Calls: []
-    m_TypeName: UnityEngine.UI.Button+ButtonClickedEvent, UnityEngine.UI, Version=1.0.0.0,
-      Culture=neutral, PublicKeyToken=null
+  m_btnPurchase: {fileID: 11457954}
+  m_imgItem: {fileID: 11424386}
+  m_txtName: {fileID: 11486770}
+  m_txtBackyardNum: {fileID: 11499270}
+  m_txtCapacity: {fileID: 11450804}
+  m_txtComfortable: {fileID: 11471534}
+  m_txtDecoration: {fileID: 11482824}
+  m_slComfortable: {fileID: 11433578}
+  m_slDecoration: {fileID: 11462926}
 --- !u!114 &11450804
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -634,26 +612,6 @@ MonoBehaviour:
   m_PreferredHeight: -1
   m_FlexibleWidth: -1
   m_FlexibleHeight: -1
---- !u!114 &11466320
-MonoBehaviour:
-  m_ObjectHideFlags: 1
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 100100000}
-  m_GameObject: {fileID: 176414}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: f3af17329a7e46a49a83df44fe192d71, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  Selected:
-    m_PersistentCalls:
-      m_Calls: []
-    m_TypeName: UnityEventInt, Assembly-CSharp, Version=1.2.0.0, Culture=neutral,
-      PublicKeyToken=null
-  m_btn: {fileID: 11434048}
-  m_imgItem: {fileID: 11424386}
-  m_txtCapacity: {fileID: 11450804}
-  m_txtNum: {fileID: 0}
 --- !u!114 &11471534
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -839,7 +797,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: 2
+  m_Text: "\u6570:2"
 --- !u!222 &22201998
 CanvasRenderer:
   m_ObjectHideFlags: 1
@@ -944,7 +902,7 @@ RectTransform:
   m_RootOrder: 2
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 16.6, y: -40}
+  m_AnchoredPosition: {x: 12.5, y: -40}
   m_SizeDelta: {x: 160, y: 30}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!224 &22429544
@@ -978,7 +936,7 @@ RectTransform:
   m_RootOrder: 0
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 0, y: 25.5}
+  m_AnchoredPosition: {x: 0, y: 25}
   m_SizeDelta: {x: 100, y: 100}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!224 &22437142
@@ -998,7 +956,7 @@ RectTransform:
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
   m_AnchoredPosition: {x: 23, y: 0}
-  m_SizeDelta: {x: 100, y: 20}
+  m_SizeDelta: {x: 90, y: 20}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!224 &22444626
 RectTransform:
@@ -1163,7 +1121,7 @@ RectTransform:
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
   m_AnchoredPosition: {x: 23, y: 0}
-  m_SizeDelta: {x: 100, y: 20}
+  m_SizeDelta: {x: 90, y: 20}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!224 &22486096
 RectTransform:

@@ -124,7 +124,7 @@ Transform:
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 192816}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 280.7, z: 0}
+  m_LocalPosition: {x: 13, y: 104, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 447600}
@@ -291,7 +291,7 @@ MonoBehaviour:
   rightType: 1
   bottomType: 1
   topType: 1
-  mSprite: {fileID: 21300082, guid: 911697bd0d748df4ab7ca0f2d030bf9f, type: 3}
+  mSprite: {fileID: 21300000, guid: 677e44e5652aa124fa51a5104b11cf15, type: 3}
   mMat: {fileID: 0}
   mShader: {fileID: 4800000, guid: e75727d9555d9d14ca51d91908c681bc, type: 3}
   mBorder: {x: 0, y: 0, z: 0, w: 0}
@@ -348,7 +348,7 @@ MonoBehaviour:
   rightType: 1
   bottomType: 1
   topType: 1
-  mSprite: {fileID: 21300078, guid: 911697bd0d748df4ab7ca0f2d030bf9f, type: 3}
+  mSprite: {fileID: 21300000, guid: 30b0f9a7eacd98341aee43e3be70dcd3, type: 3}
   mMat: {fileID: 0}
   mShader: {fileID: 4800000, guid: e75727d9555d9d14ca51d91908c681bc, type: 3}
   mBorder: {x: 0, y: 0, z: 0, w: 0}
@@ -438,7 +438,7 @@ MonoBehaviour:
   rightType: 1
   bottomType: 1
   topType: 1
-  mSprite: {fileID: 21300080, guid: 911697bd0d748df4ab7ca0f2d030bf9f, type: 3}
+  mSprite: {fileID: 21300000, guid: 4510eb5a2bea7d94f83bc3890bb475f0, type: 3}
   mMat: {fileID: 0}
   mShader: {fileID: 4800000, guid: e75727d9555d9d14ca51d91908c681bc, type: 3}
   mBorder: {x: 0, y: 0, z: 0, w: 0}
@@ -549,7 +549,7 @@ MonoBehaviour:
   rightType: 1
   bottomType: 1
   topType: 1
-  mSprite: {fileID: 21300076, guid: 911697bd0d748df4ab7ca0f2d030bf9f, type: 3}
+  mSprite: {fileID: 21300000, guid: 4d8dff8d7e298db48a30a3a782f5b344, type: 3}
   mMat: {fileID: 0}
   mShader: {fileID: 4800000, guid: e75727d9555d9d14ca51d91908c681bc, type: 3}
   mBorder: {x: 0, y: 0, z: 0, w: 0}
